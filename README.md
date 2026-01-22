@@ -7,7 +7,7 @@ A comprehensive Streamlit-based educational platform featuring an AI-powered cha
 ## 🌐 Live Demo & Resources
 
 ### 🚀 Live Demo Application
-**Access the live app:** [Streamlit Community Cloud URL]
+**Access the live app:** [[Streamlit Community Cloud URL](https://educational-chatbot-pnetakuh4jste7xzvzfsvx.streamlit.app/)]
 
 > Note: The app is deployed on Streamlit Community Cloud (free tier). First load may take 30 seconds to wake up the instance.
 
@@ -2369,6 +2369,7 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 **Built with ❤️ for students and educators worldwide**
 
 *Last Updated: January 2026*
+
 
 
 
