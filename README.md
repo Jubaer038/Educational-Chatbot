@@ -12,7 +12,7 @@ A comprehensive Streamlit-based educational platform featuring an AI-powered cha
 > Note: The app is deployed on Streamlit Community Cloud (free tier). First load may take 30 seconds to wake up the instance.
 
 ### 🎥 Demonstration Video
-**Watch the complete walkthrough:** [Google Drive Video URL]
+**Watch the complete walkthrough:** [[Google Drive Video URL](https://drive.google.com/file/d/1l_Dv1QmsR-U23JsHVEOMZcpQEtRhCwjH/view?usp=sharing)]
 
 **Video Contents (5-10 minutes):**
 - ✅ Complete feature demonstration (PDF Q&A, Evaluation, Study Planner, Essay Writer, Summarizer)
@@ -2369,6 +2369,7 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 **Built with ❤️ for students and educators worldwide**
 
 *Last Updated: January 2026*
+
 
 
 
