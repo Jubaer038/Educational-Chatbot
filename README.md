@@ -22,7 +22,6 @@ A comprehensive Streamlit-based educational platform featuring an AI-powered cha
 - ✅ English voice narration throughout
 
 ### 📦 Sample Test Data
-**Sample PDF for testing:** [Sample Academic PDF in `/sample_data/` folder]
 
 **Quick Test Instructions:**
 1. Download `sample_data/sample_academic_paper.pdf` from this repository
@@ -2328,7 +2327,7 @@ This project is open-source and available under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 [Jubaer Ahmed]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2370,5 +2369,6 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 **Built with ❤️ for students and educators worldwide**
 
 *Last Updated: January 2026*
+
 
 
